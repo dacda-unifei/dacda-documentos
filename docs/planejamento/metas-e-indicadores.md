@@ -1,4 +1,4 @@
-# Metas e Indicadores — DACDA
+# Metas e Indicadores — CACDA
 
 ## 1. Governança
 
@@ -25,7 +25,7 @@
 
 | Indicador | Meta inicial | Periodicidade | Fonte |
 |---|---|---|---|
-| Eventos promovidos pelo DACDA | `[PREENCHER]` por semestre | Semestral | Relatórios de eventos |
+| Eventos promovidos pelo CACDA | `[PREENCHER]` por semestre | Semestral | Relatórios de eventos |
 | Participação média por evento | `[PREENCHER]` participantes | Semestral | Listas anonimizadas |
 
 ## 5. Transparência

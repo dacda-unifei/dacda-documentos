@@ -1,4 +1,4 @@
-# Minuta de Estatuto Social — DACDA
+# Minuta de Estatuto Social — CACDA
 
 > **Status:** minuta editável (não aprovada, não protocolada).
 >
@@ -6,24 +6,24 @@
 
 ## Capítulo I — Denominação, Sede e Duração
 
-**Art. 1º** O Diretório Acadêmico de Ciência de Dados Aplicada, doravante denominado DACDA, é uma entidade civil estudantil, sem fins lucrativos, de duração por prazo indeterminado.
+**Art. 1º** O Centro Acadêmico de Ciência de Dados Aplicada, doravante denominado CACDA, é uma entidade civil estudantil, sem fins lucrativos, de duração por prazo indeterminado.
 
-**Art. 2º** O DACDA terá sede em `[PREENCHER]`, no âmbito da Universidade Federal de Itajubá (UNIFEI), podendo utilizar espaços institucionais conforme normas internas.
+**Art. 2º** O CACDA terá sede em `[PREENCHER]`, no âmbito da Universidade Federal de Itajubá (UNIFEI), podendo utilizar espaços institucionais conforme normas internas.
 
 ## Capítulo II — Finalidade e Princípios
 
-**Art. 3º** São finalidades do DACDA:
+**Art. 3º** São finalidades do CACDA:
 
 I. representar as pessoas discentes do curso de `[PREENCHER]`;
 II. promover participação estudantil qualificada em temas acadêmicos e institucionais;
 III. incentivar integração acadêmica, científica, cultural e social;
 IV. defender direitos estudantis e apoiar canais democráticos de diálogo.
 
-**Art. 4º** O DACDA observará os princípios de legalidade, impessoalidade, transparência, inclusão, participação democrática e responsabilidade com recursos.
+**Art. 4º** O CACDA observará os princípios de legalidade, impessoalidade, transparência, inclusão, participação democrática e responsabilidade com recursos.
 
 ## Capítulo III — Associados
 
-**Art. 5º** Poderão integrar o DACDA as pessoas regularmente matriculadas no curso de `[PREENCHER]`, observadas as regras deste Estatuto.
+**Art. 5º** Poderão integrar o CACDA as pessoas regularmente matriculadas no curso de `[PREENCHER]`, observadas as regras deste Estatuto.
 
 **Art. 6º** Categorias de associados, se houver, e critérios de elegibilidade: `[PREENCHER]`.
 
@@ -39,13 +39,13 @@ IV. candidatar-se a cargos, observados os critérios estatutários.
 **Art. 8º** São deveres das pessoas associadas:
 
 I. respeitar este Estatuto, o Regimento Interno e deliberações válidas;
-II. zelar pelo patrimônio e imagem institucional do DACDA;
+II. zelar pelo patrimônio e imagem institucional do CACDA;
 III. atuar com ética e respeito à diversidade;
 IV. proteger dados pessoais e informações sensíveis.
 
-## Capítulo V — Órgãos do DACDA
+## Capítulo V — Órgãos do CACDA
 
-**Art. 9º** São órgãos do DACDA:
+**Art. 9º** São órgãos do CACDA:
 
 I. Assembleia Geral;
 II. Diretoria;
@@ -74,7 +74,7 @@ IV. Comissões temáticas `[PREENCHER: se aplicável]`.
 
 ## Capítulo VIII — Patrimônio, Receitas e Gestão Financeira
 
-**Art. 18** O patrimônio do DACDA será constituído por bens e direitos adquiridos licitamente para atendimento de suas finalidades.
+**Art. 18** O patrimônio do CACDA será constituído por bens e direitos adquiridos licitamente para atendimento de suas finalidades.
 
 **Art. 19** Constituem receitas:
 
@@ -87,7 +87,7 @@ IV. outras receitas compatíveis com a natureza da entidade.
 
 ## Capítulo IX — Transparência e Prestação de Contas
 
-**Art. 21** O DACDA publicará periodicamente informações mínimas sobre receitas, despesas, decisões e planejamento, preservando dados pessoais.
+**Art. 21** O CACDA publicará periodicamente informações mínimas sobre receitas, despesas, decisões e planejamento, preservando dados pessoais.
 
 **Art. 22** Periodicidade e formato da prestação de contas: `[PREENCHER]`.
 
@@ -97,7 +97,7 @@ IV. outras receitas compatíveis com a natureza da entidade.
 
 ## Capítulo XI — Dissolução
 
-**Art. 24** A dissolução do DACDA somente poderá ocorrer por deliberação em assembleia específica, com quórum de `[PREENCHER]`.
+**Art. 24** A dissolução do CACDA somente poderá ocorrer por deliberação em assembleia específica, com quórum de `[PREENCHER]`.
 
 **Art. 25** Em caso de dissolução, a destinação do patrimônio remanescente seguirá a legislação aplicável e deliberação assemblear registrada.
 

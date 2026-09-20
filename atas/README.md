@@ -1,6 +1,6 @@
 # Atas
 
-Esta pasta armazena atas de assembleias e reuniões do DACDA.
+Esta pasta armazena atas de assembleias e reuniões do CACDA.
 
 - Publicar versões institucionais com data e pauta.
 - Anonimizar dados pessoais antes de divulgação pública.

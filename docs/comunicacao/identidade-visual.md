@@ -1,4 +1,4 @@
-# Guia Inicial de Identidade Visual — DACDA
+# Guia Inicial de Identidade Visual — CACDA
 
 > **Status:** guia inicial em construção.
 

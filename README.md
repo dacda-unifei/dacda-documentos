@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="DACDA — Diretório Acadêmico de Ciência de Dados Aplicada UNIFEI" width="100%" />
+  <img src="assets/banner.jpg" alt="CACDA — Centro Acadêmico de Ciência de Dados Aplicada UNIFEI" width="100%" />
 </p>
 
-<h1 align="center">DACDA • Base Documental Institucional</h1>
+<h1 align="center">CACDA • Base Documental Institucional</h1>
 
 <p align="center">
-  <strong>Diretório Acadêmico de Ciência de Dados Aplicada — Universidade Federal de Itajubá</strong>
+  <strong>Centro Acadêmico de Ciência de Dados Aplicada — Universidade Federal de Itajubá</strong>
 </p>
 
 <p align="center">
-  <a href="https://dacda-unifei.github.io/dacda-documentos/"><img src="https://img.shields.io/badge/portal-docs%20online-0284c7?style=for-the-badge&logo=googledocs&logoColor=white" alt="Portal Online"></a>
+  <a href="index.html"><img src="https://img.shields.io/badge/portal-docs%20online-0284c7?style=for-the-badge&logo=googledocs&logoColor=white" alt="Portal Online"></a>
   <a href="docs/estatuto/estatuto-social.md"><img src="https://img.shields.io/badge/estatuto-minuta%20ativa-10b981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Estatuto"></a>
   <a href="docs/administrativo/transparencia.md"><img src="https://img.shields.io/badge/compliance-LGPD%20estrita-6366f1?style=for-the-badge&logo=shield&logoColor=white" alt="LGPD"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contribui%C3%A7%C3%B5es-abertas-amber?style=for-the-badge" alt="Contribuições"></a>
 </p>
 
 <p align="center">
-  <a href="https://dacda-unifei.github.io/dacda-documentos/"><strong>🌐 Acessar Portal de Documentação Interativo (GitHub Pages) »</strong></a>
+  <a href="index.html"><strong>🌐 Acessar Portal de Documentação Interativo (GitHub Pages) »</strong></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## 🏛️ Apresentação
 
-Este repositório é a central pública oficial de **minutas, modelos normativos, planejamento estratégico e prestação de contas** do **Diretório Acadêmico de Ciência de Dados Aplicada (DACDA)** da **UNIFEI**.
+Este repositório é a central pública oficial de **minutas, modelos normativos, planejamento estratégico e prestação de contas** do **Centro Acadêmico de Ciência de Dados Aplicada (CACDA)** da **UNIFEI**.
 
 Seu propósito é assegurar:
 - **Continuidade institucional:** Preservação de histórico e transições de gestão organizadas;
@@ -43,9 +43,9 @@ Seu propósito é assegurar:
 
 ---
 
-## 🧭 Estrutura de Governança do DACDA
+## 🧭 Estrutura de Governança do CACDA
 
-O modelo de governança estudantil do DACDA é estruturado de forma colegiada e horizontal:
+O modelo de governança estudantil do CACDA é estruturado de forma colegiada e horizontal:
 
 ```
                       ┌─────────────────────────┐
@@ -170,5 +170,5 @@ Consulte os detalhes em [CONTRIBUTING.md](CONTRIBUTING.md) e o nosso [Código de
 ---
 
 <p align="center">
-  <sub><strong>Diretório Acadêmico de Ciência de Dados Aplicada (DACDA)</strong><br>Universidade Federal de Itajubá — Campus Itajubá / Itabira</sub>
+  <sub><strong>Centro Acadêmico de Ciência de Dados Aplicada (CACDA)</strong><br>Universidade Federal de Itajubá — Campus Itajubá / Itabira</sub>
 </p>

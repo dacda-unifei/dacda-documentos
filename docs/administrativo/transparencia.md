@@ -1,4 +1,4 @@
-# Política de Transparência e Prestação de Contas — DACDA
+# Política de Transparência e Prestação de Contas — CACDA
 
 > **Status:** política interna em construção, sujeita a deliberação.
 

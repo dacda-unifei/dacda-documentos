@@ -1,6 +1,6 @@
 ---
 name: Sugestão
-about: Propor melhorias para documentos, processos ou comunicação do DACDA
+about: Propor melhorias para documentos, processos ou comunicação do CACDA
 title: "[Sugestão] "
 labels: ["sugestao"]
 assignees: []

@@ -1,4 +1,4 @@
-# Cronograma de Implantação — DACDA
+# Cronograma de Implantação — CACDA
 
 > Cronograma com prazos relativos para evitar definição de datas não confirmadas.
 
