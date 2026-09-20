@@ -1,4 +1,4 @@
-# Plano de Ação Inicial — DACDA
+# Plano de Ação Inicial — CACDA
 
 > **Status:** documento de planejamento inicial (não substitui deliberação formal em assembleia).
 
@@ -34,7 +34,7 @@
 | Ação | Objetivo | Responsável sugerido | Prazo relativo | Entregável | Indicador |
 |---|---|---|---|---|---|
 | Planejar calendário inicial | Organizar eventos de integração | Diretoria de Eventos | Mês 2 | Calendário semestral | Nº de eventos planejados |
-| Executar evento-piloto | Testar fluxo organizacional do DACDA | Eventos + Comunicação | Mês 3 | Relatório de execução | Nº de participantes |
+| Executar evento-piloto | Testar fluxo organizacional do CACDA | Eventos + Comunicação | Mês 3 | Relatório de execução | Nº de participantes |
 
 ## Eixo 6 — Transparência
 

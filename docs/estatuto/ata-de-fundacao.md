@@ -4,13 +4,13 @@
 
 Aos `[PREENCHER]` dias do mês de `[PREENCHER]` de `[PREENCHER]`, às `[PREENCHER]`, em `[PREENCHER]`, reuniu-se a assembleia de estudantes do curso de `[PREENCHER]` da UNIFEI para deliberar sobre:
 
-1. Fundação do Diretório Acadêmico de Ciência de Dados Aplicada (DACDA);
+1. Fundação do Centro Acadêmico de Ciência de Dados Aplicada (CACDA);
 2. Aprovação do Estatuto Social;
 3. Eleição e posse da primeira Diretoria.
 
 ## 1) Fundação
 
-Foi apresentada a proposta de fundação do DACDA, com finalidade de representação estudantil e promoção de atividades acadêmicas e integrativas. A proposta foi `[PREENCHER: aprovada/rejeitada]` por `[PREENCHER]`.
+Foi apresentada a proposta de fundação do CACDA, com finalidade de representação estudantil e promoção de atividades acadêmicas e integrativas. A proposta foi `[PREENCHER: aprovada/rejeitada]` por `[PREENCHER]`.
 
 ## 2) Estatuto Social
 

@@ -1,10 +1,10 @@
-# Minuta de Regimento Interno — DACDA
+# Minuta de Regimento Interno — CACDA
 
 > **Status:** minuta editável (não aprovada).
 
 ## 1. Disposições gerais
 
-Este regimento disciplina o funcionamento cotidiano do DACDA e complementa o Estatuto Social.
+Este regimento disciplina o funcionamento cotidiano do CACDA e complementa o Estatuto Social.
 
 ## 2. Reuniões
 

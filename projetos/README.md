@@ -1,6 +1,6 @@
 # Projetos
 
-Esta pasta reúne propostas e acompanhamento de projetos do DACDA.
+Esta pasta reúne propostas e acompanhamento de projetos do CACDA.
 
 - Registrar objetivo, responsáveis, prazo e status.
 - Publicar somente informações adequadas ao ambiente público.

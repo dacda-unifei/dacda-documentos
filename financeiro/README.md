@@ -1,6 +1,6 @@
 # Financeiro
 
-Esta pasta reúne documentos de planejamento e prestação de contas do DACDA.
+Esta pasta reúne documentos de planejamento e prestação de contas do CACDA.
 
 - Publicar relatórios consolidados e comprovantes permitidos.
 - Proteger dados pessoais e bancários, mantendo apenas o necessário para transparência.

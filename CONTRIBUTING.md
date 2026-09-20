@@ -1,6 +1,6 @@
-# Contribuindo com o DACDA
+# Contribuindo com o CACDA
 
-Obrigado por contribuir com a base documental do DACDA.
+Obrigado por contribuir com a base documental do CACDA.
 
 ## Fluxo de contribuição
 

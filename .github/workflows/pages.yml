@@ -1,4 +1,4 @@
-name: Deploy DACDA Documentation Portal to GitHub Pages
+name: Deploy CACDA Documentation Portal to GitHub Pages
 
 on:
   push:

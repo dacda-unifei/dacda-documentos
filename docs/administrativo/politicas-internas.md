@@ -1,4 +1,4 @@
-# Políticas Internas — DACDA
+# Políticas Internas — CACDA
 
 > **Status:** minuta de políticas internas.
 
@@ -10,7 +10,7 @@
 
 ## 2. Uso de recursos
 
-- aplicar recursos apenas em finalidades institucionais do DACDA;
+- aplicar recursos apenas em finalidades institucionais do CACDA;
 - exigir registro e comprovação mínima para cada movimentação;
 - vedar uso para benefício pessoal.
 

@@ -1,4 +1,4 @@
-# Modelos de Comunicados Oficiais — DACDA
+# Modelos de Comunicados Oficiais — CACDA
 
 > **Status:** modelos editáveis.
 
@@ -8,12 +8,12 @@
 
 Prezadas e prezados estudantes,
 
-O DACDA informa que `[PREENCHER]`.
+O CACDA informa que `[PREENCHER]`.
 
 Encaminhamentos e próximos passos: `[PREENCHER]`.
 
 Atenciosamente,  
-Diretório Acadêmico de Ciência de Dados Aplicada (DACDA)
+Centro Acadêmico de Ciência de Dados Aplicada (CACDA)
 
 ---
 
@@ -21,7 +21,7 @@ Diretório Acadêmico de Ciência de Dados Aplicada (DACDA)
 
 **Convocação de Assembleia**
 
-O DACDA convoca as pessoas estudantes do curso de `[PREENCHER]` para Assembleia a ser realizada em `[PREENCHER]`, às `[PREENCHER]`, com a seguinte pauta:
+O CACDA convoca as pessoas estudantes do curso de `[PREENCHER]` para Assembleia a ser realizada em `[PREENCHER]`, às `[PREENCHER]`, com a seguinte pauta:
 
 1. `[PREENCHER]`
 2. `[PREENCHER]`
@@ -35,7 +35,7 @@ Contamos com a participação de todas e todos.
 
 **Nota Pública — `[PREENCHER]`**
 
-O DACDA, no exercício de sua função representativa, manifesta que `[PREENCHER]`.
+O CACDA, no exercício de sua função representativa, manifesta que `[PREENCHER]`.
 
 Reafirmamos os princípios de diálogo, respeito institucional e defesa dos interesses estudantis.
 
@@ -47,7 +47,7 @@ Reafirmamos os princípios de diálogo, respeito institucional e defesa dos inte
 
 Prezada Coordenação,
 
-O DACDA solicita reunião para tratar de `[PREENCHER]`.
+O CACDA solicita reunião para tratar de `[PREENCHER]`.
 
 Sugestões de data/horário: `[PREENCHER]`.
 
@@ -57,4 +57,4 @@ Objetivos da reunião:
 - `[PREENCHER]`
 
 Atenciosamente,  
-Diretório Acadêmico de Ciência de Dados Aplicada (DACDA)
+Centro Acadêmico de Ciência de Dados Aplicada (CACDA)

@@ -1,8 +1,8 @@
-# Código de Conduta do DACDA
+# Código de Conduta do CACDA
 
 ## Nosso compromisso
 
-O DACDA busca manter um ambiente acolhedor, respeitoso, plural e seguro para todas as pessoas estudantes e colaboradoras.
+O CACDA busca manter um ambiente acolhedor, respeitoso, plural e seguro para todas as pessoas estudantes e colaboradoras.
 
 ## Comportamentos esperados
 
@@ -20,7 +20,7 @@ O DACDA busca manter um ambiente acolhedor, respeitoso, plural e seguro para tod
 
 ## Aplicação
 
-Este código se aplica a discussões, issues, pull requests, documentos e interações relacionadas ao DACDA.
+Este código se aplica a discussões, issues, pull requests, documentos e interações relacionadas ao CACDA.
 
 ## Encaminhamento de incidentes
 
