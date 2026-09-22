@@ -112,6 +112,8 @@ Gestão orientada a resultados e metas públicas:
 ### 🏛️ Administrativo e Compliance
 Transparência fiscal e conduta ética:
 
+- 📨 **[Carta de Reconhecimento](docs/administrativo/solicitacao-reconhecimento.md)**  
+  *Peça oficial de protocolo perante a Coordenação de CDA e Direção do IEPG.*
 - 🔍 **[Política de Transparência](docs/administrativo/transparencia.md)**  
   *Fluxo de publicação em 4 etapas e critérios de divulgação.*
 - 💰 **[Prestação de Contas](docs/administrativo/prestacao-de-contas.md)**  

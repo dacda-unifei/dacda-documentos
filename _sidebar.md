@@ -13,6 +13,7 @@
   * [Metas e Indicadores (KPIs)](docs/planejamento/metas-e-indicadores.md)
 
 * **Administrativo & Transparência**
+  * [Solicitação de Reconhecimento](docs/administrativo/solicitacao-reconhecimento.md)
   * [Política de Transparência](docs/administrativo/transparencia.md)
   * [Prestação de Contas](docs/administrativo/prestacao-de-contas.md)
   * [Políticas Internas & LGPD](docs/administrativo/politicas-internas.md)
