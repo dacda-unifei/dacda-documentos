@@ -23,7 +23,7 @@ Colocada em votação, a proposta de fundação foi **APROVADA** por `[X]` votos
 
 ### 2) Estatuto Social
 
-A minuta do **Estatuto Social (v2.0)** foi lida, discutida item a item e submetida à votação plenária, sendo **APROVADA** sem ressalvas por `[X]` votos favoráveis. O documento final aprovado permanece arquivado no repositório institucional oficial ([github.com/dacda-unifei/dacda-documentos](https://github.com/dacda-unifei/dacda-documentos)) e em cópia física autenticada pela Secretaria.
+A minuta do **Estatuto Social (v2.0)** foi lida, discutida item a item e submetida à votação plenária, sendo **APROVADA** sem ressalvas por `[X]` votos favoráveis. O documento final aprovado permanece arquivado no repositório institucional oficial ([github.com/CACDA-UNIFEI/CACDA-documentos](https://github.com/CACDA-UNIFEI/CACDA-documentos)) e em cópia física autenticada pela Secretaria.
 
 ---
 
